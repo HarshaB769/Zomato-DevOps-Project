@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: zomato
-        image: harsha/zomato:latest
+        image: zomato-devops-project:latest
         ports:
         - containerPort: 3000
